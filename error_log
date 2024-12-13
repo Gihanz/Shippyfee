@@ -1,0 +1,231 @@
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 08:43:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 09:20:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[20-Jan-2022 12:42:32 America/New_York] PHP Notice:  Undefined offset: 1 in /home2/shippyfe/public_html/Model/Product.php on line 32
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 13:07:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[22-Jan-2022 14:21:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 06:00:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 11:24:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[23-Jan-2022 12:10:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[26-Jan-2022 13:02:13 America/New_York] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:02:13 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:20:59 America/New_York] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:20:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:28:01 America/New_York] PHP Warning:  require_once(mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:28:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:03 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:03 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:03 America/New_York] PHP Warning:  include(): Failed opening '/path/to/pear/Mail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:134
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 134
+[26-Jan-2022 13:33:06 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:06 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:06 America/New_York] PHP Warning:  include(): Failed opening '/path/to/pear/Mail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:55 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:55 America/New_York] PHP Warning:  include(/path/to/pear/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:55 America/New_York] PHP Warning:  include(): Failed opening '/path/to/pear/Mail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:134
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 134
+[26-Jan-2022 13:37:05 America/New_York] PHP Warning:  require_once(/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:37:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:37:07 America/New_York] PHP Warning:  require_once(/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:37:07 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:37:27 America/New_York] PHP Warning:  require_once(/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:37:27 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/shippyfe/public_html/Model/../../php/Mail/Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:39:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:134
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 134
+[26-Jan-2022 13:42:01 America/New_York] PHP Warning:  require_once(/home2/shippyfe/php): failed to open stream: Success in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:42:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/shippyfe/php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 13:43:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:137
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 137
+[26-Jan-2022 13:49:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home2/shippyfe/php/Mail/mail.php:53
+Stack trace:
+#0 /home2/shippyfe/public_html/Model/Member.php(4): include()
+#1 /home2/shippyfe/public_html/user-registration.php(4): require_once('/home2/shippyfe...')
+#2 {main}
+  thrown in /home2/shippyfe/php/Mail/mail.php on line 53
+[26-Jan-2022 13:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home2/shippyfe/php/Mail/mail.php:53
+Stack trace:
+#0 /home2/shippyfe/public_html/Model/Member.php(4): include()
+#1 /home2/shippyfe/public_html/user-registration.php(4): require_once('/home2/shippyfe...')
+#2 {main}
+  thrown in /home2/shippyfe/php/Mail/mail.php on line 53
+[26-Jan-2022 13:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:136
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 136
+[26-Jan-2022 13:58:27 America/New_York] PHP Notice:  Undefined variable: subject in /home2/shippyfe/public_html/Model/Member.php on line 124
+[26-Jan-2022 13:58:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail_mime' not found in /home2/shippyfe/public_html/Model/Member.php:127
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 127
+[26-Jan-2022 13:59:54 America/New_York] PHP Warning:  include(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 6
+[26-Jan-2022 13:59:54 America/New_York] PHP Warning:  include(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 6
+[26-Jan-2022 13:59:54 America/New_York] PHP Warning:  include(): Failed opening 'Mail/mime.php' for inclusion (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 6
+[26-Jan-2022 13:59:54 America/New_York] PHP Notice:  Undefined variable: subject in /home2/shippyfe/public_html/Model/Member.php on line 126
+[26-Jan-2022 13:59:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail_mime' not found in /home2/shippyfe/public_html/Model/Member.php:129
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 129
+[26-Jan-2022 14:03:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:126
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 126
+[26-Jan-2022 14:07:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:127
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 127
+[26-Jan-2022 14:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:129
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 129
+[26-Jan-2022 14:22:44 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:22:47 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:23:47 America/New_York] PHP Warning:  require_once(/home2/shippyfe/public_html/ModelMail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 5
+[26-Jan-2022 14:23:47 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home2/shippyfe/public_html/ModelMail.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 5
+[26-Jan-2022 14:26:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:128
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 128
+[26-Jan-2022 14:38:18 America/New_York] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:18 America/New_York] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:18 America/New_York] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:38 America/New_York] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:38 America/New_York] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:38 America/New_York] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 4
+[26-Jan-2022 14:38:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:126
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 126
+[26-Jan-2022 14:41:08 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/shippyfe/public_html/Model/Member.php on line 3
+[26-Jan-2022 14:47:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home2/shippyfe/public_html/Model/Member.php:126
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 126
+[26-Jan-2022 14:48:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home2/shippyfe/public_html/Model/Member.php:127
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 127
+[26-Jan-2022 14:53:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail' not found in /home2/shippyfe/public_html/Model/Member.php:126
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 126
+[26-Jan-2022 14:55:18 America/New_York] PHP Notice:  Only variables should be assigned by reference in /home2/shippyfe/public_html/Model/Member.php on line 128
+[26-Jan-2022 14:55:55 America/New_York] PHP Notice:  Only variables should be assigned by reference in /home2/shippyfe/public_html/Model/Member.php on line 128
+[26-Jan-2022 15:23:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail_mime' not found in /home2/shippyfe/public_html/Model/Member.php:132
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 132
+[26-Jan-2022 15:24:00 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 7
+[26-Jan-2022 15:24:00 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 7
+[26-Jan-2022 15:24:03 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 7
+[26-Jan-2022 15:24:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 7
+[26-Jan-2022 15:25:11 America/New_York] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home2/shippyfe/public_html/Model/Member.php on line 7
+[26-Jan-2022 15:28:03 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:28:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:30:32 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:30:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:32:08 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:32:08 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:32:55 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 9
+[26-Jan-2022 15:32:55 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 9
+[26-Jan-2022 15:34:45 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:34:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='/home2/shippyfe/php:.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 8
+[26-Jan-2022 15:37:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail_mime' not found in /home2/shippyfe/public_html/Model/Member.php:134
+Stack trace:
+#0 /home2/shippyfe/public_html/user-registration.php(6): Phppot\Member->registerMember()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/Member.php on line 134
+[26-Jan-2022 15:40:36 America/New_York] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home2/shippyfe/public_html/Model/Member.php on line 6
+[26-Jan-2022 15:40:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/shippyfe/public_html/Model/Member.php on line 6
+[26-Jan-2022 16:32:36 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 16:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 16:32:36 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home2/shippyfe/public_html/user-registration-notify.php on line 3
+[26-Jan-2022 16:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/user-registration-notify.php on line 3
+[26-Jan-2022 16:37:54 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 16:37:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 16:38:57 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 16:38:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/user-registration-notify.php on line 2
+[26-Jan-2022 18:43:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Phppot\ForgotPassword::sendCredential() in /home2/shippyfe/public_html/forgotpassword.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/shippyfe/public_html/forgotpassword.php on line 7
+[26-Jan-2022 18:54:00 America/New_York] PHP Notice:  Undefined index: fullname in /home2/shippyfe/public_html/Model/ForgotPassword.php on line 87
+[26-Jan-2022 18:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Phppot\Mail_mime' not found in /home2/shippyfe/public_html/Model/ForgotPassword.php:100
+Stack trace:
+#0 /home2/shippyfe/public_html/forgotpassword.php(7): Phppot\ForgotPassword->sendCredentials()
+#1 {main}
+  thrown in /home2/shippyfe/public_html/Model/ForgotPassword.php on line 100
+[26-Jan-2022 18:55:23 America/New_York] PHP Notice:  Undefined index: fullname in /home2/shippyfe/public_html/Model/ForgotPassword.php on line 93
+[26-Jan-2022 18:58:19 America/New_York] PHP Notice:  Undefined index: fullname in /home2/shippyfe/public_html/Model/ForgotPassword.php on line 93
+[26-Jan-2022 19:15:13 America/New_York] PHP Notice:  Undefined index: fullname in /home2/shippyfe/public_html/Model/ForgotPassword.php on line 93
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Undefined variable: username in /home2/shippyfe/public_html/home.php on line 24
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Undefined variable: fullname in /home2/shippyfe/public_html/header.php on line 3
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5
+[27-Jan-2022 01:09:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home2/shippyfe/public_html/header.php on line 5

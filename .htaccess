@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^shippyfee\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.shippyfee\.com$
+RewriteRule ^/?$ "https\:\/\/www\.shippyfee\.com\/" [R=301,L]
+
